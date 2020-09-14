@@ -1,4 +1,4 @@
-# Project Visudh
+# Project Vishudh
 > Tacking India'a Waste Problem
 
 ![](ReadmeAssets/1.png)
