@@ -33,11 +33,27 @@ Using these four features a **Garbage Index** is generated and the clusters are 
 |------|-------|
 |<img src="ReadmeAssets/7.jpeg" width="400"/>|<img src="ReadmeAssets/8.jpeg" width="400"/>|
 
+
 > The App Allows users to click a pic on uncleaned area nearby and send it to server the server checks for Garbage in Image and if found  
 User get a +1 Contribution Point 
 The App Also Allows user to view Nearby NGO Registered as well as non registered and also contact us in case of any problem he/she is facing
 
-Add Website ScreenShots here
+Website 
+
+<img width="904" alt="login" src="https://user-images.githubusercontent.com/43816262/93321729-26206f80-f830-11ea-8a94-7a145cf43a9a.png">
+
+<img width="900" alt="ngo" src="https://user-images.githubusercontent.com/43816262/93321776-33d5f500-f830-11ea-96f6-ec7b1946c6b3.png">
+
+<img width="903" alt="gov" src="https://user-images.githubusercontent.com/43816262/93321712-1f91f800-f830-11ea-863c-b4dc31ffc413.png">
+
+<img width="906" alt="m1" src="https://user-images.githubusercontent.com/43816262/93321742-2a4c8d00-f830-11ea-876a-2396fe82fea5.png">
+
+<img width="907" alt="m2" src="https://user-images.githubusercontent.com/43816262/93321757-2e78aa80-f830-11ea-80d9-b484bd5c242e.png">
+
+<img width="883" alt="a" src="https://user-images.githubusercontent.com/43816262/93322078-8d3e2400-f830-11ea-95bc-e7b461038cdc.png">
+
+<img width="899" alt="sd" src="https://user-images.githubusercontent.com/43816262/93322195-acd54c80-f830-11ea-96a0-128e214e7faa.png">
+
 
 ## Implementation
 ![](ReadmeAssets/ProductDesign.jpeg)
